@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@material-ui/icons": "^4.11.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
